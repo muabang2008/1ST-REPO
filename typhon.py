@@ -19,3 +19,5 @@ u = int(input("2nd number: "))
 
 result = sub(m, u)
 print(f"VALUE: {result}")
+
+print("VISCA BARCA Y VISCA CATALUNYA")
